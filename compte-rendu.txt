@@ -1,0 +1,101 @@
+Resume pour la premiere semaine a -SAS- YOUCODE :
+
+  - travaille en groupe (squad).
+  - Live coding de chaque workshop.
+  - workshop githut + langace c (variables + conditions).
+
+ 1)
+
+    -Git : Un logiciel , un outil permettant de controler
+               la ou les versions d'un projet informatique.
+
+   -Github : GitHub est une plateforme open source de 
+                  gestion de versions et de collaboration 
+                  destinée aux développeurs de logiciels.
+2)-Les commendes de :
+
+    Git :
+         - git clone.                   
+         - git init.                    
+         - git add.                     
+         - git commit -m "commentaire". 
+         - git revert.                  
+         - git checkout.                
+         - git branch.                  
+         - git push.                    
+         - git pull.
+
+   Linux :
+         - cd . 
+         - mkdir .
+         - ls.  
+         - touch . 
+         -pwd .
+                   
+3)- Les vielles :
+     
+     * Github    VS   Git.
+     * Github    VS   GitLab.
+     * Github    VS   BitBacket.
+     * Github    VS   SVN.
+     * Github    VS   Azure Devops.
+     * histoire de langage C.
+     * Langage C VS Langage C++.
+     * langage compilé VS interprété.
+     * les types de variable.
+
+4) Langage c : Le C est un langage de programmation impératif conçu pour la programmation système. 
+               Inventé au début des années 1970 avec UNIX, C est devenu un des langages les plus utilisés. 
+               De nombreux langages plus modernes comme C++, Java et PHP reprennent des aspects de C.
+  
+  - Les variables.
+
+     les types de variables:                      les boucles :
+
+           * int.                                       * for.
+           * short int.                                 * while.
+           * long int.                                  * do... while.
+           * char.                                    
+           * float.
+           * bool.
+
+   
+
+    -Les operateurs : 
+      Les opérateurs de calcul :                  Les opérateurs d'assignation :
+           
+           * + ==>  Ex : a + b.                         * += ==> Ex : a+ = b.
+           * - ==>  Ex : a - b.                         * -= ==> Ex : a- = b.
+           * * ==>  Ex : a * b.                         * *= ==> Ex : a* = b.
+           * / ==>  Ex : a / b.                         * /= ==> Ex : a/ = b.
+           * % ==>  Ex : a % b.
+
+     
+    Les opérateurs de comparaison :                 Les opérateurs logiques
+ 
+           * ==                                          * ||
+
+           * <                                           * &&
+           * <=
+           * >
+           * >=
+           * !=  
+
+    - les conditions :
+  
+           * if
+           * else if
+           * else
+
+     *Problèmes que j'ai vu et amélioration que j'ai besoin pour affermir mes compétences:
+
+             - comment resoudre quelque problemes de git et aussi de langage c.
+
+             -il faut prendre plus de temps pour des challenges pour aprrendre comment utiliser les commandes et créer des programes par langage c et aussi aller de l'avant a l'utilisation de git.
+
+             -ameliorer mes connaissnces a traver la documentation.
+
+             -bonifier mon èchelle de communication en francais.
+
+ 
+  
